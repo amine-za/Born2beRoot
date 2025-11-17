@@ -1,6 +1,11 @@
 # Born2beRoot - System Administration
 This project was a solo exercise to install and configure a secure Debian Linux server from the command line in a virtual machine.
 
+### Screenshot
+<p>
+    <img src="asset.jpg" width="32%" alt="Deployment Diagram" />
+</p>
+
 My tasks included:
 
 Hardening the server by setting up a firewall (UFW), strict password policies, and a secure sudo configuration.
