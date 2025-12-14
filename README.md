@@ -1,11 +1,13 @@
 # Born2beRoot - System Administration
 This project was a solo exercise to install and configure a secure Debian Linux server from the command line in a virtual machine.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![LVM](https://img.shields.io/badge/LVM-FF4F00?style=flat&logo=linux&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-231F20?style=flat&logo=openssh&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-FF9E0F?style=flat&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Sudo](https://img.shields.io/badge/Sudo-003545?style=flat&logo=linux&logoColor=white)
 
 ### Screenshot
 <p>
